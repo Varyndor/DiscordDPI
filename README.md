@@ -2,7 +2,7 @@
 
 Türkiye'de Discord'un açılması için çalışan bir programdır. Sağlayıcı, TLS el sıkışmasının ilk paketindeki sunucu adını görünce bağlantıyı keser. Discord adları da sıradan DNS sorgusuyla çözülmez. DiscordDPI bu iki noktaya dokunur. Başka hiçbir trafik değişmez. VPN değildir; paketler başka bir sunucudan geçmez.
 
-Aynı işi yapan iki program vardır. Birini kurmak diğerini etkilemez. `windows` klasörü 64 bit Windows içindir, `linux` klasörü 64 bit Linux içindir. macOS yoktur: paketlere dokunan bir program, Apple'ın onayladığı bir geliştirici hesabıyla imzalanmadan macOS'ta yüklenemez.
+Aynı işi yapan iki program vardır. Birini kurmak diğerini etkilemez. `windows` klasörü 64 bit Windows içindir, `linux` klasörü 64 bit Linux içindir.
 
 İki programın kendi kodu MIT lisansındadır, `LICENSE` dosyasına bakın.
 
