@@ -1,0 +1,5 @@
+linux/** text eol=lf
+*.sh text eol=lf
+*.go text eol=lf
+*.md text eol=lf
+*.cmd text eol=crlf
